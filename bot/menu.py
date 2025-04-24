@@ -1,7 +1,6 @@
 from aiogram import Bot
 from aiogram.types import BotCommand
 
-
 # Bot menyusiga buyruqlarni o'rnatish funksiyasi
 
 async def set_bot_menu(bot: Bot):
